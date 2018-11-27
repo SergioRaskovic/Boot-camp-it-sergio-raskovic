@@ -10,6 +10,7 @@ int main () //poslije njega pise
 	return 0; // podatak je tocan
 	//banana
 	//jabuka
+	//piva
 }
 
 
