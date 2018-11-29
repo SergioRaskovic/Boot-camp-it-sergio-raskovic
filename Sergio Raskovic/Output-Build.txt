@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: ConsoleApplication1, Configuration: Debug Win32 ------
+1>ConsoleApplication1.cpp
+1>c:\users\uc-m20\documents\sergio raskovic\sergio raskovic\consoleapplication1\consoleapplication1\consoleapplication1.cpp(36): error C2146: syntax error: missing ';' before identifier 'f'
+1>Done building project "ConsoleApplication1.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
