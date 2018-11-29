@@ -1,0 +1,4 @@
+﻿  ConsoleApplication7.cpp
+c:\users\uc-m20\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(13): error C2065: 'cin': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(30): error C2065: 'cout': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence

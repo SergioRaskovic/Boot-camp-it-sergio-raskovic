@@ -1,0 +1,29 @@
+﻿  pch.cpp
+  ConsoleApplication3.cpp
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(17): error C2065: 'x': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(18): error C2065: 'x': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(18): error C2050: switch expression not integral
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): error C2065: 'x': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): error C2143: syntax error: missing ':' before ';'
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): error C2131: expression did not evaluate to a constant
+  c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): note: a non-constant (sub-)expression was encountered
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(23): error C2065: 'x': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(23): error C2146: syntax error: missing ':' before identifier 'cout'
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(23): error C2131: expression did not evaluate to a constant
+  c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(23): note: a non-constant (sub-)expression was encountered
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(26): error C2065: 'x': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(26): error C2146: syntax error: missing ':' before identifier 'cout'
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(26): error C2131: expression did not evaluate to a constant
+  c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(26): note: a non-constant (sub-)expression was encountered
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): error C2065: 'x': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): error C2146: syntax error: missing ':' before identifier 'cout'
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): error C2131: expression did not evaluate to a constant
+  c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): note: a non-constant (sub-)expression was encountered
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): error C2065: 'numb': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): error C2143: syntax error: missing ';' before 'constant'
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): warning C4552: '/': result of expression not used
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): error C2051: case expression not constant
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(23): error C2051: case expression not constant
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(26): error C2051: case expression not constant
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): error C2051: case expression not constant
+c:\users\uc-m20\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(32): warning C4060: switch statement contains no 'case' or 'default' labels

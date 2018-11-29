@@ -1,0 +1,5 @@
+﻿  ConsoleApplication10.cpp
+c:\users\uc-m20\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(10): error C2065: 'cin': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(12): error C2065: 'cout': undeclared identifier
+c:\users\uc-m20\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(15): error C2181: illegal else without matching if
+c:\users\uc-m20\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(15): error C2065: 'cout': undeclared identifier
