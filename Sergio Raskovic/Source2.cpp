@@ -1,21 +1,27 @@
 #include "pch.h"
 #include <iostream>
-#include <iomanip>
-
-
 
 using namespace std;
 
-int main()
+ /*int bottles(int i) {
+	
+	 if (int i = 99; i < 1; i--){
 
-{
-	sing float a;
-	cin >> a;
-	cin >> b;
+	 return i;
+	
+		} */
 
-	cout << (a +=b) << endl;
-	cout << (a -=b) << endl;
-	cout << (a *= b) << endl;
-	cout << (a /= b) << endl;
+/*int sumaniza(int n, int unos, int result, int i) {
+	
+	int n;
+	int unos;
+	int result = 0;
+	cin >> n;
+	for (int i = 0; i < n; i++) {
+		cin >> unos;
+		return 
+		result += unos;
+	}
 
 }
+*/
