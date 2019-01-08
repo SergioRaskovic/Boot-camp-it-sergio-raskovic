@@ -1,0 +1,35 @@
+title:web shop
+actor:korisnik
+
+Scenario:
+registracija na stranicu,unos kreditnde kartice ili paypal racuna po volji ako zeli kupiti nesto,kosarica za kupovinu narudzba itema koji kupac zeli kupit,za koliko dana stize item,
+popusti ako je redovan kupac,prikaz stanja njegove kartice i paypal racuna i koliko ce mu se oduzet od kupovine 
+
+Exstensions:povratna informacija ako user vec postoji,decline kreditne kartice ako nije vazeca,decline kupovine itema ako user nema dovoljno para
+
+user stories:
+Kao korisnik 
+zelim se prijavit na stranicu da bi mogao kupovati i razgledavati sve sta je u web shopu kako ne bi morao traziti po gradu i maknut se iz kuce olaksava mi posao kupovine
+
+sta mi treba:
+
+registracija korisnika
+kreditna kartica ili paypal
+kosarica
+items koji se nalaze u mojem shopu
+vrijeme dolazka itema do destinacije
+popusti za redovnog kupca
+prikaz stanja 
+koliko ce mu se oduzeti od stanja
+
+
+title: racun
+actor: korisnik
+
+Scenario:
+prijava 
+
+
+
+
+
