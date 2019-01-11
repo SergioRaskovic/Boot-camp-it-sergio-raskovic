@@ -1,4 +1,8 @@
 ﻿  ConsoleApplication59.cpp
-c:\users\uc-m20\source\repos\consoleapplication59\consoleapplication59\consoleapplication59.cpp(37): warning C4018: '<': signed/unsigned mismatch
-c:\users\uc-m20\source\repos\consoleapplication59\consoleapplication59\consoleapplication59.cpp(88): warning C4018: '<': signed/unsigned mismatch
-  ConsoleApplication59.vcxproj -> C:\Users\UC-M20\source\repos\ConsoleApplication59\Debug\ConsoleApplication59.exe
+c:\users\uc-m20\documents\sergio raskovic\boot-camp-it-sergio-raskovic\sergio raskovic\consoleapplication59\consoleapplication59\consoleapplication59.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\uc-m20\documents\sergio raskovic\boot-camp-it-sergio-raskovic\sergio raskovic\consoleapplication59\consoleapplication59\consoleapplication59.cpp(78): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m20\documents\sergio raskovic\boot-camp-it-sergio-raskovic\sergio raskovic\consoleapplication59\consoleapplication59\consoleapplication59.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\uc-m20\documents\sergio raskovic\boot-camp-it-sergio-raskovic\sergio raskovic\consoleapplication59\consoleapplication59\consoleapplication59.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\uc-m20\documents\sergio raskovic\boot-camp-it-sergio-raskovic\sergio raskovic\consoleapplication59\consoleapplication59\consoleapplication59.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\uc-m20\documents\sergio raskovic\boot-camp-it-sergio-raskovic\sergio raskovic\consoleapplication59\consoleapplication59\consoleapplication59.cpp(130): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication59.vcxproj -> C:\Users\UC-M20\Documents\Sergio Raskovic\Boot-camp-it-sergio-raskovic\Sergio Raskovic\ConsoleApplication59\Debug\ConsoleApplication59.exe
